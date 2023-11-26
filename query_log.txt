@@ -1,0 +1,2 @@
+2023-11-26 01:33	sentence	{"distance_strict": "on", "gr1": "", "l_id1": "", "lex1": "", "n_words": "1", "page_size": "10", "random_seed": "", "sort": "random", "w_id1": "", "wf1": "а"}
+2023-11-26 01:33	sentence	{"distance_strict": "on", "gr1": "", "l_id1": "", "lex1": "", "n_words": "1", "page_size": "10", "random_seed": "", "sort": "random", "w_id1": "", "wf1": "а"}
